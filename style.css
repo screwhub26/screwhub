@@ -138,7 +138,7 @@
         .bico { width: 46px; height: 46px; border-radius: 50%; background: linear-gradient(135deg, var(--primary), var(--secondary)); display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #fff; box-shadow: 0 4px 15px rgba(232, 122, 26, 0.3); } 
         .bname { font-family: "Playfair Display", serif; font-size: 1.5rem; font-weight: 900; color: var(--secondary); } 
         .bname span { color: var(--primary); } 
-        .bsub { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #010101; display: block; margin-top: -2px; } 
+        .bsub { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: #cac6c2; display: block; margin-top: -2px; } 
         
         .nav-menu {
             display: flex;
